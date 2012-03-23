@@ -1,0 +1,6 @@
+smtTimeline:
+  caption:
+    ja_JP: "スマートフォン版ホーム画面テストガジェット"
+  description:
+    ja_JP: "スマートフォン版ホーム画面のテストが表示されます。"
+  component: [testGadget, smtLayoutHomeTest]

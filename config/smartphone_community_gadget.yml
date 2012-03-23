@@ -1,0 +1,6 @@
+smtTimeline:
+  caption:
+    ja_JP: "スマートフォン版コミュニティ画面テストガジェット"
+  description:
+    ja_JP: "スマートフォン版コミュニティ画面のテストが表示されます。"
+  component: [testGadget, smtLayoutGadgetTest]
